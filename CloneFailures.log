@@ -1,0 +1,11 @@
+The following files could not be copied to the new project directory
+Plugins/AdvancedSessions/AdvancedSessions/Binaries/Win64/UnrealEditor-AdvancedSessions.dll
+Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/Win64/UnrealEditor-AdvancedSteamSessions.dll
+Plugins/UBIKSolver-main/Binaries/Win64/UnrealEditor-UBIKEditor.dll
+Plugins/UBIKSolver-main/Binaries/Win64/UnrealEditor-UBIKRuntime.dll
+Plugins/VictoryPlugin/Binaries/Win64/UnrealEditor-VictoryBPLibrary.dll
+Plugins/VRExpansionPlugin/OpenVRExpansionPlugin/Binaries/Win64/UnrealEditor-OpenVRExpansionPlugin.dll
+Plugins/VRExpansionPlugin/OpenXRExpansionPlugin/Binaries/Win64/UnrealEditor-OpenXRExpansionEditor.dll
+Plugins/VRExpansionPlugin/OpenXRExpansionPlugin/Binaries/Win64/UnrealEditor-OpenXRExpansionPlugin.dll
+Plugins/VRExpansionPlugin/VRExpansionPlugin/Binaries/Win64/UnrealEditor-VRExpansionEditor.dll
+Plugins/VRExpansionPlugin/VRExpansionPlugin/Binaries/Win64/UnrealEditor-VRExpansionPlugin.dll
